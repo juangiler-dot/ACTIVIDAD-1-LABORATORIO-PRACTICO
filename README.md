@@ -15,13 +15,13 @@ Este laboratorio tiene como objetivo practicar:
 
 ```text
 02_Laboratorio/
-├── notebooks/
-│   ├── 01_Fundamentos_NumPy_Pandas.ipynb
-│   ├── 02_Visualizacion_Datos.ipynb
-│   ├── 03_Machine_Learning_Basico.ipynb
-│   └── 04_Deep_Learning_Intro.ipynb
-├── images/
-│   ├── grafico_iris.png
-│   └── ...
+├── Notebooks/
+│   ├── Ejemplo _01_Fundamentos_NumPy_Pandas.ipynb
+│   ├── Ejemplo_02_Visualizacion_Datos.ipynb
+│   ├── Ejemplo_03_Machine_Learning_Basico.ipynb
+│   └── Ejemplo_04_Deep_Learning_Intro.ipynb
+├── Images/
+│   ├── Imagen01.png
+│   └── Imagen02.png
 ├── README.md
 └── requirements.txt
