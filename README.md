@@ -1,4 +1,4 @@
-# UEES-IA-S1-DelgadoMiguel
+# UEES-IA-S1-GILERJUANFRA
 Actividad 1. Investigación - Laboratorio práctico Google Colab
 
 # Laboratorio Práctico en Google Colab – Semana 1
